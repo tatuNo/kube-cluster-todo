@@ -36,5 +36,5 @@ spec:
         name: nats-repo
         namespace: flux-system
       interval: 1m
-    values:
-      replicaCount: 1
+  values:
+    replicaCount: 1
