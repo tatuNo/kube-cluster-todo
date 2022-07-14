@@ -4,10 +4,3 @@ metadata:
   name: todo
   labels:
     name: todo
----
-kind: Namespace
-apiVersion: v1
-metadata:
-  name: log-output
-  labels:
-    name: log-output
