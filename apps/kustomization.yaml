@@ -3,3 +3,6 @@ kind: Kustomization
 namespace: todo
 resources:
   - namespace.yaml
+  - source.yaml
+  - app.yaml
+  
